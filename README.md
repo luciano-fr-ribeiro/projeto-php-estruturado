@@ -14,6 +14,13 @@ O desafio desse projeto é desenvolver uma aplicação usando do paradigma de pr
 Estrutura e padrão que é usado no projeto.
 - Padrão de arquitetura de softuware: MVC;
 - PSR1 e PSR2 (Lembrando que será usado um paradigma estruturado, não podendo ser aplicado na integra);
+- Estrutura de diretorios (pastas) padrão simplificado usado por alguns FrameWorks;
+\projeto
+    \app
+        \model
+        \view
+        \controller
+    \
 
 
 
