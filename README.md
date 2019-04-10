@@ -16,5 +16,6 @@ Estrutura e padrão que é usado no projeto.
 - PSR1 e PSR2 (Lembrando que será usado um paradigma estruturado, não podendo ser aplicado na integra);
 - Estrutura de diretorios (pastas) padrão simplificado usado por alguns FrameWorks;
 
-projeto\
+.. projeto
     app
+        model
